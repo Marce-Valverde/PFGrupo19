@@ -1,4 +1,5 @@
 # PFGrupo19
+image.png
 Procesamiento de datos - Proyecto-Final - 2do año TSCDIA ISPC
 
 Consigna para proyecto de finalización: Procesamiento de Datos
