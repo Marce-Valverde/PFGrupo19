@@ -1,6 +1,4 @@
-# PFGrupo19
-
-Procesamiento de datos - Proyecto-Final - 2do año TSCDIA ISPC
+# Procesamiento de datos - Proyecto-Final - 2do año TSCDIA ISPC
 
 Consigna para proyecto de finalización: Procesamiento de Datos
 Aplicación de técnicas de procesamiento de datos en una temática relacionada
