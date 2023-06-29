@@ -1,30 +1,33 @@
-# Procesamiento de datos - Proyecto-Final - 2do año TSCDIA ISPC
+# Proyecto Final
 
-Consigna para proyecto de finalización: Procesamiento de Datos
-Aplicación de técnicas de procesamiento de datos en una temática relacionada
+### Modulo: Analista de Datos
+- Materias: 
+    - Procesamiento de Datos
 
-Objetivo del proyecto: El objetivo de este proyecto es aplicar los conceptos estudiados en el espacio curricular de "Procesamiento de Datos" para realizar el procesamiento y análisis de datos. Los miembros del grupo tendrán la libertad de elegir el tema y los datos de interés sobre los cuales trabajar.
-Descripción del proyecto: El proyecto consiste en desarrollar un procesamiento de datos que incluya las siguientes etapas:
+## Integrantes 
+---
+| Nombre         | Apellido           | Sala    |
+|----------------|--------------------|---------|
+| Angel          | Villarreal Barroso |    1    | 
+| Marcela        | Valverde Estrada   |    1    |
+| Gisela Belen   | Figueroa           |    2    |
+| Gaston         | Carranza           |    1    |
+| Maria Belen    | Rodriguez          |    2    |
+| Maria Gabriela | Rodriguez          |    2    |
 
-1.	Recolección y preparación de datos: Obtener o recolectar conjuntos de datos relevantes para el tema elegido. Realizar las tareas de limpieza, integración y transformación necesarias para preparar los datos para el análisis.
-2.	Análisis exploratorio de datos: Aplicar técnicas de análisis exploratorio para comprender y explorar los datos en profundidad. Esto puede incluir la identificación de patrones, relaciones, valores atípicos y distribuciones de variables.
-3.	Procesamiento y análisis de datos: Aplicar técnicas de procesamiento de datos para realizar tareas como filtrado, agregación, transformación y cálculo de métricas relevantes para el tema elegido. Utilizar herramientas de software y lenguajes de programación adecuados para llevar a cabo estas tareas.
-4.	Visualización de datos: Utilizar técnicas y herramientas de visualización de datos para representar gráficamente la información obtenida. Se deben explorar diferentes técnicas de visualización, como gráficos de barras, gráficos de dispersión, diagramas de caja, mapas, entre otros. Además, aplicar técnicas de visualización de múltiples variables para identificar relaciones y patrones complejos en los datos.
-5.	Comunicación efectiva de resultados: Generar reportes que presenten de manera clara y concisa los resultados obtenidos durante el procesamiento y análisis de datos.
+# DESCRIPCIÓN:
+El objetivo del presente reporte es presentar los resultados de un análisis de datos utilizando el lenguaje de programación de Python. En este análisis, se exploró un conjunto de datos compuesto por los dataframe de las plataformas: HBO, Netflix, Amazon Prime y Disney Plus y se aplicaron diversas técnicas de análisis para obtener la información más relevante.
 
-Requisitos del proyecto:
+# OBJETIVO:
+El objetivo del proyecto es colaborar con la identificación de las tendencias de mercado local, preferencias de contenido, oportunidades de expansión y segmentos de audiencia, a fin de respaldar la toma de decisiones estratégicas, como adquisiciones de nuevos contenidos con nuevas características.
 
-1.	Grupos: Formar grupos de no más de 7 miembros.
-2.	Repositorio de GitHub: Cada grupo deberá crear un repositorio en GitHub para el proyecto. Cada miembro del grupo debe ser colaborador del repositorio.
-3.	Estructura del repositorio: El repositorio debe seguir una estructura organizada, incluyendo los conjuntos de datos utilizados, el código fuente, los resultados de análisis y las visualizaciones generadas.
+# ACLARACIONES:
+EL programa se ejecuta con Python a través del archivo Proyecto.ipynb.-
 
-4.	Criterios de validación:
-•	Uso: El proyecto debe ser funcional y el archivo README del repositorio debe incluir las indicaciones necesarias para ponerlo en marcha.
-•	Implementación: Cada miembro del grupo debe realizar al menos un pull request al repositorio. El repositorio debe mantenerse limpio, incluyendo solo los archivos necesarios para un eventual despliegue en la rama principal (main).
-•	Información: El archivo README debe contener información completa sobre los miembros del grupo, el objetivo del proyecto, una breve descripción y las instrucciones para ponerlo en marcha. Además, se deben indicar los problemas o dificultades encontradas durante el desarrollo y sus soluciones.
-•	Visualización de datos: El proyecto debe incluir técnicas de visualización de datos apropiadas, que permitan transmitir de manera efectiva la información y los resultados obtenidos.
-•	Generación de reportes: Se debe generar al menos un reporte que presente los resultados de manera clara y siguiendo buenas prácticas de generación de reportes.
+# ALCANCE:
+Se trabajó sobre las tablas de todas las plataformas, a excepción de la tabla de HBO que se adecua para el trabajo sobre una de las dos tablas que componen el dataset, quedando de manera relegada, por una cuestión de tiempo, incorporar los datos de actores y directores que se encuentran en otra tabla. La incorporación y el trabajo de unir ambas tablas forman parte de un Anexo (ANEXO Trabajo sobre las tablas de HBO para dar formato) que se incorpora al trabajo.
 
+## Para más información se incorpora un reporte sobre Metodología, Resultados y Conclusiones.
 
-Fecha de presentación: 26/06/2023 - 29/06/2023 20:00 Hs
-Exposición:  30/06/2023
+** Fecha de presentación: 26/06/2023 - 29/06/2023 20:00 Hs **
+** Exposición:  30/06/2023 **
